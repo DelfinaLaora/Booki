@@ -110,10 +110,10 @@ header form {
 
 header form > i {   
     width: 30px;
-    height: 10px;
+    height: 38px;
     background: #F2F2F2;
     border-radius: 15px 0px 0px 15px;
-    padding: 8px 30px 25px 20px;
+    padding: 10px 30px 11px 20px;
     margin-right: -5px;         
 }
 
@@ -123,7 +123,7 @@ header form > i {
 
 .placeholder {    
     width: 15%;
-    height: 33px;
+    height: 38px;
     border: 1px solid #F2F2F2;
     padding-bottom: 0;
 }
@@ -136,7 +136,7 @@ header form > i {
 
 .recherche {
     width: 130px;
-    height: 33px;
+    height: 38px;
     font-weight: 700;
     font-size: 18px;
     text-align: center;
@@ -154,7 +154,7 @@ header form button .fa-magnifying-glass {
     color: #FFFFFF;
     border-radius: 10px 10px 10px 10px;
     background: #0065FC;  
-    padding: 9px;
+    padding: 12px;
     margin: 0;
     margin-left: -10px;    
 }
@@ -194,7 +194,7 @@ header .filtre div a i {
     padding-right: 10px;
 }
 
-header .filtre div a:hover {
+header .filtre div span:hover {
     background: #DEEBFF;
 }
 
@@ -340,7 +340,7 @@ main {
 .activites {
     padding: 20px;
     margin-top: 30px;
-    margin-bottom: 15px;
+    margin-bottom: 18px;
 }
 
 .activites > div {
@@ -429,7 +429,7 @@ footer ul a {
     }
 
     header .filtre div {
-      margin-top: 15px;    
+        margin-top: 15px;    
         margin-bottom: 15px;
     }
 
